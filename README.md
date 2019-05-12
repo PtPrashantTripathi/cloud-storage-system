@@ -1,6 +1,6 @@
-![Cloud Storage System](/assets/img/Cloudbox.png)
+![Cloud Storage System](/Cloud-Storage-System/Server Source Code/assets/img/Cloudbox.png )
 
-# Shree Ganesh v2.0
+# Cloud Storage System
 ![Devloper](https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg)
 ![GitHub release](https://img.shields.io/github/release/PtPrashantTripathi/Cloud-Storage-System.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/PtPrashantTripathi/Cloud-Storage-System.svg)
@@ -19,7 +19,7 @@
 
 ## About
 
->This a Android app for The Astrological services based upon the "Indian Astrology aka Vedic Astrology or Jyotish", this android app help user to  get answers for Problem of his or her life with astrology. It also provide solution of problem from your Bhagyank(Lucky Number).  It is Simple but Effective android app. I am not responsible in any way for any adverse consequences. Because Astrology has its limitations.  
+>Cloud computing is now days emerging field because of its performance, high availability, low cost. In the cloud many services are provided to the client by cloud. Data store is main future that cloud service provides to the companies to store huge amount of storage capacity. But still many companies or workstations are not ready to implement cloud computing technology due to lack of proper security control policy and weakness in protection which lead to many challenge in cloud computing. The primary objective of designing this data center or data storage is to learn the importance of accessing our data from anywhere around the world, create a secured & easy to handle storage for a small number of users, to prevent Data access from unauthorized access, and also performs some of the tasks like data updating, deleting, appending.   
 
 ## Technology use
 
@@ -32,32 +32,39 @@
 
 ## Features
 
-- First Online future consulting app.
-- Responsive Interface.
-- Based on Indian Astrology aka Vedic Astrology or Jyotish .
-- Also includes The verious solution regarding your problem.
-- It is Simple but Effective android app.
+- User Interface 
+   - Simple & Responsive UI
+   - Easy storing, retrieval and updating of data   
+- Data Security 
+   - Data will be secured as data is stored directly in database as BLOB datatype.  
+- File Types 
+   - All types of data files can be stored  
+   - Different file types will have different tags for proper segregation.  
+- Navigation  
+   - It offer a directory structure; this facilitates navigation and organization easily  
+- Sharing 
+   - File Sharing through WhatsApp  
+- File versioning 
+   - Files versioning is maintained for every single file stored in the cloud for a period of 30 days. Users could track the changes performed on the file and also can find the date and time at which the change was performed.
 
 ## Developer  
 
-Pt. Prashant Tripathi | Deepshika Patel | Kaushal Sen | Prakriti Kapoor 
---- | --- | ---
-![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4) |`renders` | **nicely**
-**Pt. Prashant Tripathi** [@PtPrashantTripathi](http://Prashanttripathi.ga) - *Designer/Devloper* |`renders` | **nicely**
+| Pt. Prashant Tripathi | Deepshika Patel | Kaushal Sen | Prakriti Kapoor |
+|---|---|---|
+|![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4) |`renders` | **nicely**|
+|**Pt. Prashant Tripathi** [@PtPrashantTripathi](http://Prashanttripathi.ga) - *Designer/Devloper* |`renders` | **nicely**|
 
 ## Release History
 
-* Release 2.1
-    * CHANGE: Update README.md (module code remains unchanged)
-* Release 2.0
-    * CHANGE: Update in Algorithm
-    * ADD: Add New theme
-    * FIX: Crash bug  
+* Release 1.1
+    * CHANGE: Update README.md 
+    * FIX: Resolve bug  
 * Release 1.0
     * The first proper release
     * CHANGE: Rename `Cloud-Storage-System` 
 * Release 0.1
-    * Work in progress
+    * Research Completed
+    * Concept Generated
 
 ## Support 
 Reach out to me at one of the following places!
@@ -78,6 +85,6 @@ Quora : [PtPrashantTriapthi](https://www.quora.com/profile/Pt-Prashant-Tripathi)
 
 ## Importent Link 
 
-- To know about it http://www.prashanttripathi.ga/portfolio/shreeganesh/
+- To know about it http://www.prashanttripathi.ga/portfolio/Cloud-Storage-System/
 - To view this project source code https://github.com/PtPrashantTripathi/Cloud-Storage-System
-- To Downlode the app https://github.com/PtPrashantTripathi/Cloud-Storage-System/raw/master/shreeganesh_2.0.apk
+- To Downlode the app https://github.com/PtPrashantTripathi/Cloud-Storage-System/raw/master/CloudBox_1.0.apk
