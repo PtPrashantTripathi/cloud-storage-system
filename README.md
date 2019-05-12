@@ -48,10 +48,11 @@
    - Files versioning is maintained for every single file stored in the cloud for a period of 30 days. Users could track the changes performed on the file and also can find the date and time at which the change was performed.
 
 ## Developer Team 
-| Pt. Prashant Tripathi | Deepshika Patel | Kaushal Sen | Prakriti Kapoor |
-| :---: | :---: | :---: |
-| ![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4) | ![Deepshikha Patel](https://i.stack.imgur.com/GQDtC.jpg) | ![Kaushal Sen](https://i.stack.imgur.com/abNLG.jpg) | ![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4) |
-| **Pt. Prashant Tripathi** [@PtPrashantTripathi](http://Prashanttripathi.ga) - *Designer/Devloper* | **Pt. Prashant Tripathi** [@PtPrashantTripathi](http://Prashanttripathi.ga) - *Designer/Devloper* | **Pt. Prashant Tripathi** [@PtPrashantTripathi](http://Prashanttripathi.ga) - *Designer/Devloper* | **Pt. Prashant Tripathi** [@PtPrashantTripathi](http://Prashanttripathi.ga) - *Designer/Devloper* |
+
+|Pt. Prashant Tripathi|Deepshika Patel|Kaushal Sen|Prakriti Kapoor|
+|---|---|---|
+|![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4)|![Deepshikha Patel](https://i.stack.imgur.com/GQDtC.jpg)|![Kaushal Sen](https://i.stack.imgur.com/abNLG.jpg)|![Prakriti Kapoor](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4)|
+|*Devloper* [@PtPrashantTripathi](http://Prashanttripathi.ga)|*UI/UX Designer* [@DeepshikaPatel](patel.deepshikha426@gmail.com)|*Team Leader* [@KaushalSen](https://linkedin.com/in/kaushal-sen-b48670180)|**Prakriti Kapoor** *Mentor*|
 
 ## Release History
 
