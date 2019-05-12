@@ -1,4 +1,4 @@
-![Cloud Storage System](/Cloud-Storage-System/Server Source Code/assets/img/Cloudbox.png )
+![Cloud Storage System](https://raw.githubusercontent.com/PtPrashantTripathi/Cloud-Storage-System/master/Server%20Source%20Code/assets/img/Cloudbox.png)
 
 # Cloud Storage System
 ![Devloper](https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg)
@@ -47,12 +47,11 @@
 - File versioning 
    - Files versioning is maintained for every single file stored in the cloud for a period of 30 days. Users could track the changes performed on the file and also can find the date and time at which the change was performed.
 
-## Developer  
-
+## Developer Team 
 | Pt. Prashant Tripathi | Deepshika Patel | Kaushal Sen | Prakriti Kapoor |
-|---|---|---|
-|![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4) |`renders` | **nicely**|
-|**Pt. Prashant Tripathi** [@PtPrashantTripathi](http://Prashanttripathi.ga) - *Designer/Devloper* |`renders` | **nicely**|
+| :---: | :---: | :---: |
+| ![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4) | ![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4) | ![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4) | ![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4) |
+| **Pt. Prashant Tripathi** [@PtPrashantTripathi](http://Prashanttripathi.ga) - *Designer/Devloper* | **Pt. Prashant Tripathi** [@PtPrashantTripathi](http://Prashanttripathi.ga) - *Designer/Devloper* | **Pt. Prashant Tripathi** [@PtPrashantTripathi](http://Prashanttripathi.ga) - *Designer/Devloper* | **Pt. Prashant Tripathi** [@PtPrashantTripathi](http://Prashanttripathi.ga) - *Designer/Devloper* |
 
 ## Release History
 
