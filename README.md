@@ -9,7 +9,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/PtPrashantTripathi/Cloud-Storage-System.svg?color=0&logo=git&logoColor=orange)
 ![GitHub last commit](https://img.shields.io/github/last-commit/PtPrashantTripathi/Cloud-Storage-System.svg)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/PtPrashantTripathi/Cloud-Storage-System/V1.1.svg)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/PtPrashantTripathi/Cloud-Storage-System.svg)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/PtPrashantTripathi/Cloud-Storage-System.svg)
 ![Website Status](https://img.shields.io/website/http/Prashanttripathi.ga.svg?down_message=Down&up_message=Online)
 ![Repo-Size](https://img.shields.io/github/repo-size/PtPrashantTripathi/Cloud-Storage-System.svg)
 ![Code-Size](https://img.shields.io/github/languages/code-size/PtPrashantTripathi/Cloud-Storage-System.svg)
