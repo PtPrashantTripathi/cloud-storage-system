@@ -51,8 +51,8 @@
 
 |Pt. Prashant Tripathi|Deepshika Patel|Kaushal Sen|Prakriti Kapoor|
 |---|---|---|---|
-|![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4)|![Deepshikha Patel](https://i.stack.imgur.com/wniQo.jpg)|![Kaushal Sen](https://i.stack.imgur.com/TcnAP.jpg)|![Prakriti Kapoor](https://i.stack.imgur.com/r8opj.jpg)|
-|*Devloper* [@PtPrashantTripathi](http://Prashanttripathi.ga)|*UI/UX Designer* [@DeepshikaPatel](patel.deepshikha426@gmail.com)|*Team Leader* [@KaushalSen](https://linkedin.com/in/kaushal-sen-b48670180)|*Mentor* [@PrakritiKapoor](https://www.linkedin.com/in/prakriti-kapoor-b9a942a1/)|
+|![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4)|![Deepshikha Patel](https://i.stack.imgur.com/wniQo.jpg)|![Kaushal Sen](https://avatars0.githubusercontent.com/u/38976785?s=400&v=4)|![Prakriti Kapoor](https://i.stack.imgur.com/r8opj.jpg)|
+|*Devloper* [@PtPrashantTripathi](http://Prashanttripathi.ga)|*UI/UX Designer* [@DeepshikaPatel](patel.deepshikha426@gmail.com)|*Team Leader* [@KaushalSen](https://github.com/kaushalsen)|*Mentor* [@PrakritiKapoor](https://www.linkedin.com/in/prakriti-kapoor-b9a942a1/)|
 
 ## Release History
 
