@@ -69,7 +69,7 @@
 ## Support 
 Reach out to me at one of the following places!
 
-Email : [pt8435782545@gmail.com](mailto:pt8435782545@gmail.com)<br>
+DEV : [@ptprashanttripathi](https://dev.to/ptprashanttripathi/)<br>
 Facebook : [@PtPrashantTriapthi](https://www.facebook.com/PtPrashantTripathi) <br>
 Twitter : [@PtPrashant09](https://twitter.com/intent/follow?screen_name=ptprashant09) <br>
 LinkedIn :[ptprashanttripathi](https://www.linkedin.com/in/ptprashanttripathi/)<br>
