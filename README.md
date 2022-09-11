@@ -52,7 +52,7 @@
 |Pt. Prashant Tripathi|Deepshika Patel|Kaushal Sen|Prakriti Kapoor|
 |---|---|---|---|
 |![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4)|![Deepshikha Patel](https://i.stack.imgur.com/wniQo.jpg)|![Kaushal Sen](https://avatars.githubusercontent.com/u/51149664?s=200&v=4)|![Prakriti Kapoor](https://i.stack.imgur.com/r8opj.jpg)|
-|*Devloper* [@PtPrashantTripathi](httpd://ptprashanttripathi.github.io)|*UI/UX Designer* [@DeepshikaPatel](patel.deepshikha426@gmail.com)|*Team Leader* [@KaushalSen](https://github.com/kaushal-sen)|*Mentor* [@PrakritiKapoor](https://www.linkedin.com/in/prakriti-kapoor-b9a942a1/)|
+|*Devloper* [@PtPrashantTripathi](http://ptprashanttripathi.github.io)|*UI/UX Designer* [@DeepshikaPatel](patel.deepshikha426@gmail.com)|*Team Leader* [@KaushalSen](https://github.com/kaushal-sen)|*Mentor* [@PrakritiKapoor](https://www.linkedin.com/in/prakriti-kapoor-b9a942a1/)|
 
 ## Release History
 
